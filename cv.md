@@ -17,7 +17,7 @@ My core strengths are fast learning and problem solving.
 
 - Currently studying at International Black Sea University, Computer Science(Freshman)
 - Multiple Courses on Udemy and CodeCademy
-- Front-End education at coding school Mziuri
+- C++ Front-End education at coding school Mziuri
 
 ## Work Experience:
 
@@ -27,3 +27,4 @@ My core strengths are fast learning and problem solving.
 
 - Georgian
 - EPAM English test result: C1
+- Basic German
