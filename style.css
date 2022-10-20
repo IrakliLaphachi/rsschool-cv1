@@ -9,7 +9,7 @@ body {
 
 #nav {
     justify-content: center;
-    display: inline;
+    display: inline-flex;
     margin-bottom: 30px;
 }
 
@@ -56,11 +56,25 @@ p, li {
 
 nav li {
     text-decoration: none;
-    display: inline;
+    display: inline-flex;
+    align-items: center;
     margin-right: 25px;
+    padding: 5px;
+}
+
+button {
     background-color: white;
-    padding: 4px;
-    border-radius: 10px;
+    border-radius: 12px;
+    border: solid 1px blue;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+button:hover {
+    background-color: lightblue;
+    color: black;
+    cursor: pointer;
 }
 
 a {
